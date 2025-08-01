@@ -34,5 +34,3 @@ Built with:
 - Accuracy depends on lighting and camera quality
 - May switch emotions rapidly without smoothing
 - Designed for one face at a time (no multi-face tracking)
-
----
